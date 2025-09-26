@@ -25,18 +25,18 @@ Information Technology Manager with 21 years of IT leadership experience includi
    Networking and Security Architecture with VMware NSX - VMware
 
 ## Education
-    Ph.D. Information Security (Scholar)            CGPA 3.74/4.0 - Sep 2021-2026    
+### Ph.D. Information Security (Scholar)            CGPA 3.74/4.0 - Sep 2021-2026    
     Air University, Islamabad Pakistan. 
  
-    M.S Master of Science (Information Security)    CGPA 3.33/4.0 - Sep 2018-Oct 2020         
+### M.S Master of Science (Information Security)    CGPA 3.33/4.0 - Sep 2018-Oct 2020         
     Riphah International University, Islamabad.
  
-    M.S (Computer Science, Artificial Intellengce (AI), Machine Learning) Sep 2009- Apr 2012
+### M.S (Computer Science, Artificial Intellengce (AI), Machine Learning) Sep 2009- Apr 2012
     University Institute of Information Technology-PMAS-UAAR
 
-    MCS (Master of Computer Science) Networsk, Information Communication Technology, Software Engineering, Web Development, 16 Years Education Degree, CGPA 3.77/4.0           Federal Urdu University of Arts, Science & Technology, Islamabad. (TOPPER IN M.C.S 1st, 2nd, 3rd, and 4th Semester)
+### MCS (Master of Computer Science) Networsk, Information Communication Technology, Software Engineering, Web Development, 16 Years Education Degree, CGPA    3.77/4.0           Federal Urdu University of Arts, Science & Technology, Islamabad. (TOPPER IN M.C.S 1st, 2nd, 3rd, and 4th Semester)
 
-    BC-CS ( Bachelor of Computer Science) Percentage 74.7% Anual System, CTS, Islamabad - Aug 2000 – Aug 2004 
+### BC-CS ( Bachelor of Computer Science) Percentage 74.7% Anual System, CTS, Islamabad - Aug 2000 – Aug 2004 
     University of the Punjab (B.C.S Topper of CTS, Islamabad)
 
 ## Experience (Local and International):    
