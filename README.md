@@ -34,7 +34,8 @@ Information Technology Manager with 21 years of IT leadership experience includi
 ### M.S (Computer Science, Artificial Intellengce (AI), Machine Learning) Sep 2009- Apr 2012
     University Institute of Information Technology-PMAS-UAAR
 
-### MCS (Master of Computer Science) Networsk, Information Communication Technology, Software Engineering, Web Development, 16 Years Education Degree, CGPA    3.77/4.0           Federal Urdu University of Arts, Science & Technology, Islamabad. (TOPPER IN M.C.S 1st, 2nd, 3rd, and 4th Semester)
+### MCS (Master of Computer Science) Networsk, ICT, Software Engineering, Web Development CGPA  3.77/4.0  Apr 2005 - May 2007
+Federal Urdu University of Arts, Science & Technology, Islamabad. (TOPPER IN M.C.S 1st, 2nd, 3rd, and 4th Semester)
 
 ### BC-CS ( Bachelor of Computer Science) Percentage 74.7% Anual System, CTS, Islamabad - Aug 2000 – Aug 2004 
     University of the Punjab (B.C.S Topper of CTS, Islamabad)
